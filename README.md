@@ -1,8 +1,9 @@
 # **kMeans Algorithm** 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Python Tkinter Screenshot](https://github.com/Sameer164/kMeans/Selection_001.png)
+![Python Tkinter Screenshot](https://github.com/Sameer164/kMeans/blob/main/Selection_001.png)
 
+### **The screenshot above is the visualization of the kMeans Algorithm I created. The code is under** ```build/viz.py```
 
 ## **Background**
 A ```kNeans``` is an algorithm that clusters a dataset into a fixed number of clusters based on some distance metrics.  
