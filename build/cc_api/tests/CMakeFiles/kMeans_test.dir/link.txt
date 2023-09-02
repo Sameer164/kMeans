@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC CMakeFiles/kMeans_test.dir/kNNTests.cc.o -o kMeans_test  ../../lib/libgmock_main.a ../../lib/libgmock.a ../code/libkMeans.a ../../lib/libgtest_main.a ../../lib/libgtest.a 

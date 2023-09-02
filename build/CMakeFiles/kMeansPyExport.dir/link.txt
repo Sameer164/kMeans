@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIC -flto -shared  -o kMeansPyExport.cpython-310-x86_64-linux-gnu.so CMakeFiles/kMeansPyExport.dir/main.cpp.o  cc_api/code/libkMeans.a 
