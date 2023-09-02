@@ -1,0 +1,4 @@
+.vscode
+build
+cc_api/build
+extern/pybind11/build
